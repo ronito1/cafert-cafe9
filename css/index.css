@@ -1,7 +1,7 @@
 /**
- * Cafert
+ * Regortz
  * Сafert is a stylish and modern cafe template. It was created for the restaurant business: cafe, bar, bakery, pub, restaurant, pizzeria or other restaurant business
- * Exclusively on https://1.envato.market/cafert-html
+ * Exclusively on https://1.envato.market/Regortz-html
  *
  * @encoding        UTF-8
  * @version         1.0.0
@@ -1464,7 +1464,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
 
 .banner {
     display: none;
-    background: url(../img/placeholder.jpg) center/cover no-repeat fixed
+    background: url(../img/backg.jpg) center/cover no-repeat fixed
 }
 
 @media screen and (min-width:767.98px) {
